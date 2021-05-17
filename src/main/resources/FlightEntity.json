@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 6435,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2016-10-27T03:54:44-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 3561,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2014-08-06T05:15:44-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 1660,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2019-08-07T08:54:40-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 1660,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2017-05-30T08:00:30-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 8368,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2016-01-10T08:38:20-01:00"
+  }
+]
